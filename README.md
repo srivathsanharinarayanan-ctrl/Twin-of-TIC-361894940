@@ -207,21 +207,7 @@ To determine the true nature of AT 2024eme, we recommend:
 
 MIT License — See LICENSE file for details.
 
----
 
-## Citation
-
-If you use this analysis or pipeline in your research, please cite:
-
-```bibtex
-@software{srivathsan2026tic361894940,
-  author = {Srivathsan, H.N.},
-  title = {TIC 361894940: TESS Transient Analysis Pipeline},
-  year = {2026},
-  url = {https://github.com/srivathsanharinarayanan-ctrl/M-Dwarf-Brown-Dwarf-Twin-Binaries},
-  note = {Discovery and verification of AT 2024eme using TESS and ZTF cross-validation}
-}
-```
 
 ---
 
