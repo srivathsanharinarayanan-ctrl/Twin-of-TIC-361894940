@@ -46,10 +46,10 @@ Using a custom Python pipeline, we analyzed TESS photometry for TIC 361894940:
 To validate the discovery, we cross-referenced with ZTF (Zwicky Transient Facility) data using the SNAD database:
 
 **Key findings:**
-- ✅ ZTF detects real periodic variability at the target location
-- ✅ Periodogram shows clear signal (S/N = 9.192)
-- ❌ ZTF period = 28.691 days (NOT 13.92657 days)
-- ❌ Target identified as **AT 2024eme** (Optical Transient 2024)
+-  ZTF detects real periodic variability at the target location
+-  Periodogram shows clear signal (S/N = 9.192)
+-  ZTF period = 28.691 days (NOT 13.92657 days)
+-  Target identified as **AT 2024eme** (Optical Transient 2024)
 
 ### Phase 3: Correction & Analysis
 
